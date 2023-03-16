@@ -1,0 +1,12 @@
+{
+  "name": "osmarvare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^9.3.0"
+  }
+}
